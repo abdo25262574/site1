@@ -137,8 +137,10 @@ body {
   width: 50%;
   float: left;
   text-align: center;
-  margin: 50px 30px;
+  margin-top: 20px;
   color: #686868;
+    margin-left: 20px;
+
 }
 .offer-cap h2 {
   color: black;
